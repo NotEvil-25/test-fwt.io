@@ -1,0 +1,36 @@
+.header {
+	margin-bottom: 35px;
+
+	&__wrp {
+		display: flex;
+		justify-content: space-between;
+	}
+
+	&__logo {
+		opacity: 1;
+	}
+
+	&__btn {
+		display: flex;
+		align-items: center;
+
+		button {
+			height: 20px;
+			width: 20px;
+			padding: 0;
+			border: none;
+			background: none;
+			svg {
+				fill: #000;
+			}
+		}
+
+		&--dark {
+			button {
+				svg {
+					fill: #fff;
+				}
+			}
+		}
+	}
+}

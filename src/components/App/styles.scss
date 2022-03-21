@@ -1,0 +1,31 @@
+@import '~bootstrap/scss/bootstrap-utilities';
+@import '~bootstrap/scss/reboot';
+@import '../../scss/rewriteVars';
+@import '~bootstrap/scss/containers';
+@import '~bootstrap/scss/grid';
+
+
+.app {
+	background-color: #fff;
+	font-family: 'Roboto', sans-serif;
+	min-height: 100vh;
+	display: flex;
+	flex-direction: column;
+	padding: 25px 0 35px;
+
+	&--dark {
+		background-color: #000;
+	}
+
+	@media (min-width: 768px) {
+		padding: 35px 0 55px;
+	}
+
+	@media (min-width: 1024px) {
+		padding: 35px 0 60px;
+	}
+
+	@media (min-width: 1366px) {
+		padding: 35px 0 95px;
+	}
+}
