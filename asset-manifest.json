@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/test-fwt.io/static/css/main.0e471c2a.css",
+    "main.js": "/test-fwt.io/static/js/main.9aebd96b.js",
+    "static/media/theme.svg": "/test-fwt.io/static/media/theme.a1bac3c481badf3be221f6eb6c62a84c.svg",
+    "static/media/logo.svg": "/test-fwt.io/static/media/logo.936e086d4f0a07a7626931eeabbac2ab.svg",
+    "static/media/double-arrow-right.svg": "/test-fwt.io/static/media/double-arrow-right.a7c72fb6d898e7aa2e4abe33e6cbc44d.svg",
+    "static/media/double-arrow-left.svg": "/test-fwt.io/static/media/double-arrow-left.6b04b79bcd7695aa2357746cfa1994d3.svg",
+    "index.html": "/test-fwt.io/index.html",
+    "static/media/arrow-left.svg": "/test-fwt.io/static/media/arrow-left.5be890296ed6a36e817514dcd599dda4.svg",
+    "static/media/arrow-right.svg": "/test-fwt.io/static/media/arrow-right.11c90a441a5140f7c522ae69a6ddb00c.svg",
+    "static/media/open_arrow.svg": "/test-fwt.io/static/media/open_arrow.f0fbac5ff8a63b0245e24148c58793ec.svg",
+    "main.0e471c2a.css.map": "/test-fwt.io/static/css/main.0e471c2a.css.map",
+    "main.9aebd96b.js.map": "/test-fwt.io/static/js/main.9aebd96b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0e471c2a.css",
+    "static/js/main.9aebd96b.js"
+  ]
+}
