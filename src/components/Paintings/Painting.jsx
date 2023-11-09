@@ -10,7 +10,7 @@ const cx = classNames.bind(s);
 
 function Painting(props) {
   const { className, data } = props;
-  const path = `https://test-front.framework.team/${data.imageUrl}`;
+  const path = `https://test-front.framework.team${data.imageUrl}`;
 
   const authors = useSelector(selectAuthors);
   const currentAuthor = authors.filter((author) => author.id === data.authorId)[0];
